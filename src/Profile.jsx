@@ -55,7 +55,7 @@ function Profile() {
       {/* Top Navigation Bar */}
       <header className="bg-white-500 p-4">
         <div className="bg-white rounded-full px-5 py-3 flex justify-between items-center shadow-md max-w-md 5xl mx-auto">
-          <div className="text-black font-bold text-xl">Divya</div>
+          <div className="text-black font-bold text-xl">Akshada</div>
  
           {/* Desktop Nav */}
           <nav className="hidden md:flex space-x-4 text-black font-medium">
